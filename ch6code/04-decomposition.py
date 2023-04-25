@@ -1,5 +1,7 @@
 import numpy as np
 
+# 使用 svd 函数分解矩阵
+
 A = np.mat("4 11 14;8 7 -2")
 print "A\n", A
 

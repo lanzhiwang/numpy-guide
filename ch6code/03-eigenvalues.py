@@ -1,5 +1,7 @@
 import numpy as np
 
+# numpy.linalg 模块中的 eigvals 和 eig 函数求解了矩阵的特征值和特征向量
+
 A = np.mat("3 -2;1 0")
 print "A\n", A
 
