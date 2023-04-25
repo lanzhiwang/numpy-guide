@@ -10,6 +10,7 @@ import numpy as np
 
 print "In: a = arange(9)"
 a = np.arange(9)
+# array([0, 1, 2, 3, 4, 5, 6, 7, 8])
 
 print "In: a[3:7]"
 print a[3:7]

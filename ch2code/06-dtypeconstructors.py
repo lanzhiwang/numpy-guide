@@ -26,3 +26,6 @@ print np.dtype('f8')
 print "In: dtype('Float64')"
 print np.dtype('Float64')
 #Out: dtype('float64')
+
+# 完整的 NumPy 数据类型列表可以在 sctypeDict.keys() 中找到:
+# In: sctypeDict.keys()

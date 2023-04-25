@@ -12,7 +12,7 @@ import numpy as np
 
  where n is an integer that specifies the size of the vectors.
 
- The first vector to be added contains the squares of 0 up to n. 
+ The first vector to be added contains the squares of 0 up to n.
  The second vector contains the cubes of 0 up to n.
  The program prints the last 2 elements of the sum and the elapsed time.
 """
