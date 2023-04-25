@@ -1,5 +1,8 @@
 import numpy as np
 
+# matrix 函数创建矩阵
+# rint 函数对浮点数取整，但结果仍为浮点数类型
+
 F = np.matrix([[1, 1], [1, 0]])
 print "F", F
 print "8th Fibonacci", (F**7)[0, 0]
